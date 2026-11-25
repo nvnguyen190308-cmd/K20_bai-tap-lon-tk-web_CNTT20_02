@@ -1,7 +1,7 @@
 ## Thông tin sinh viên
 
-- Họ và tên: Phạm Quốc Bảo
-- Mã sinh viên – Lớp: _(2071020024 của bạn)_ – CNTT20_02
+- Họ và tên: Nguyễn Văn Nguyên 
+- Mã sinh viên – Lớp:2071020144  – CNTT20_02
 - Ngày thực hiện: 25/11/2026
 - Link repository: _(dán URL sau khi push lên GitHub)_
 - URL website: _(dán URL GitHub Pages sau khi deploy)_
