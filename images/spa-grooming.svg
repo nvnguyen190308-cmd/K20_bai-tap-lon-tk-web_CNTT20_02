@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="400" height="180">
+  <rect width="400" height="180" fill="#fdf1ea"/>
+  <circle cx="95" cy="90" r="46" fill="#d95d24"/>
+  <circle cx="83" cy="82" r="8" fill="#ffffff"/>
+  <circle cx="107" cy="82" r="8" fill="#ffffff"/>
+  <path d="M77 100 Q95 116 113 100" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="160" y="82" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#8f3810">Spa &amp; Grooming</text>
+  <text x="160" y="108" font-family="Arial, sans-serif" font-size="14" fill="#4b5d6b">Tam say &amp; cat tia nhe nhang</text>
+</svg>

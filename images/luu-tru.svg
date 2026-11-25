@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="400" height="180">
+  <rect width="400" height="180" fill="#eef2f8"/>
+  <circle cx="95" cy="90" r="46" fill="#294c7a"/>
+  <path d="M68 92 L95 68 L122 92 V116 H68 Z" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round"/>
+  <text x="160" y="82" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1b3454">Luu Tru Thu Cung</text>
+  <text x="160" y="108" font-family="Arial, sans-serif" font-size="14" fill="#4b5d6b">Phong rieng &amp; theo doi ngay</text>
+</svg>

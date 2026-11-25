@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="400" height="180">
+  <rect width="400" height="180" fill="#edf4f0"/>
+  <circle cx="95" cy="90" r="46" fill="#236b58"/>
+  <path d="M76 108 L114 70 M106 64 L120 78 M82 102 L70 114" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  <text x="160" y="82" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#184a3d">Tiem Phong</text>
+  <text x="160" y="108" font-family="Arial, sans-serif" font-size="14" fill="#4b5d6b">Vac-xin &amp; ky sinh trung</text>
+</svg>
