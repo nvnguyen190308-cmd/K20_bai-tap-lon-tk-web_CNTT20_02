@@ -3,7 +3,7 @@
 - Họ và tên: Nguyễn Văn Nguyên 
 - Mã sinh viên – Lớp:2071020144  – CNTT20_02
 - Ngày thực hiện: 25/11/2026
-- Link repository: _(dán URL sau khi push lên GitHub)_
+- Link repository:https://github.com/nvnguyen190308-cmd/K20_bai-tap-lon-tk-web_CNTT20_02
 - URL website: _(dán URL GitHub Pages sau khi deploy)_
 - Tình huống: [x] Website của tôi (PawCare DNU – Dịch vụ Chăm sóc Động vật)
 
